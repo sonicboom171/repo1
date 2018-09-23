@@ -1,0 +1,8 @@
+Origin: Joces Repo
+Label: Joces Repo
+Suite: stable
+Version: 1.0
+Codename: TEST
+Architectures: iphoneos-arm
+Components: main
+Description: Download from here
