@@ -1,8 +1,8 @@
-Origin: Joces Repo
-Label: Joces Repo
+Origin: Repo1
+Label: Joce's Repo
 Suite: stable
 Version: 1.0
-Codename: TEST
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Download from here
+Description: A repo for Joce
